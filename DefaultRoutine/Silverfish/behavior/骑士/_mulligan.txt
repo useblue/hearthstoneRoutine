@@ -1,0 +1,103 @@
+// 奥秘不留
+// 迅疾救兵
+BAR_550;pala;None;Discard:2;/
+// 甩笔侏儒
+SCH_248;pala;None;Discard:2;/
+// 复仇
+FP1_020;pala;None;Discard:2;/
+// 复仇
+CORE_FP1_020;pala;None;Discard:2;/
+// 古神在上
+DMF_236;pala;None;Discard:2;/
+DMF_236;pala;None;Hold:1;/BAR_890
+DMF_236;pala;warlock;Hold:1;/
+DMF_236;pala;warlock;Discard:2;/GAME_005
+// 救赎
+EX1_136;pala;None;Discard:2;/
+VAN_EX1_136;pala;None;Discard:2;/
+EX1_136;pala;None;Hold:1;/BAR_890
+// 清算
+CS3_016;pala;None;Discard:2;/
+// 迅疾救兵
+BAR_550;pala;None;Discard:2;/
+// 崇高牺牲
+CORE_EX1_130;pala;None;Discard:2;/
+EX1_130;pala;None;Discard:2;/
+VAN_EX1_130;pala;None;Discard:2;/
+// 永不屈服
+DAL_570;pala;None;Discard:2;/
+DAL_570;pala;None;Hold:1;/BAR_890
+// 复仇
+FP1_020;pala;None;Discard:2;/
+// 逝者之剑
+BAR_875;pala;None;Hold:1;/
+// 阿达尔之手
+BT_292;pala;None;Discard:2;/
+BT_292;pala;None;Hold:1;/CORE_FP1_007/GAME_005
+BT_292;pala;None;Hold:1;/CORE_ICC_038/ICC_038/BT_019/YOP_031/SCH_247/
+// 双盾优等生
+SCH_532;pala;None;Discard:2;/
+// 幽光鱼竿
+BT_018;pala;None;Discard:2;/
+BT_018;pala;None;Hold:1;/CORE_ICC_038/ICC_038/BT_019/YOP_031/CORE_FP1_007/GAME_005/SCH_247
+// 蛛魔之卵
+CORE_FP1_007;pala;None;Discard:2;/
+CORE_FP1_007;pala;None;Hold:1;/BT_292/BAR_880/
+// 定罪
+BAR_880;pala;None;Discard:2;/
+BAR_880;pala;None;Hold:1;/CORE_FP1_007/
+// 前沿哨所
+BAR_074;pala;None;Hold:2;/
+// 神恩术
+EX1_349;pala;None;Discard:2;/
+VAN_EX1_349;pala;None;Discard:2;/
+// 护盾机器人
+GVG_058;pala;None;Discard:2;/
+// 英勇圣印
+AT_074;pala;None;Discard:2;/
+// 智慧圣契
+BT_025;pala;None;Discard:2;/
+// 责难
+GIL_203;pala;None;Discard:2;/
+// 银色自大狂
+SCH_149;pala;None;Discard:2;/
+// 北卫军指挥官
+BAR_876;pala;None;Discard:2;/
+// 十字路口哨所
+BAR_075;pala;None;Discard:2;/
+// 贪婪的书虫
+SCH_142;pala;None;Discard:2;/
+// 夺日者间谍
+DAL_086;pala;None;Hold:1;/
+CORE_DAL_086;pala;None;Hold:1;/
+// 防护长袍
+SCH_146;pala;None;Discard:2;/
+SCH_146;pala;mage;Hold:1;/
+// 异教低阶牧师
+SCH_713;pala;None;Discard:2;/
+// 双盾优等生
+SCH_532;pala;None;Discard:2;/
+SCH_532;pala;None;Hold:1;/SW_048
+// 活化扫帚
+SCH_311;pala;None;Discard:2;/
+SCH_311;pala;hunter;Hold:1;/
+// 战斗号角 
+LOOT_093;pala;None;Hold:1;/
+// 尼鲁巴蛛
+FP1_017;pala;None;Discard:2;/
+FP1_017;pala;warlock;Hold:2;/
+FP1_017;pala;mage;Hold:2;/
+// 智慧祝福
+EX1_363;pala;None;Discard:2;/
+// 螃蟹骑士
+YOP_031;pala;None;Discard:2;/
+// 劳累的驮骡
+SW_306;pala;None;Discard:2;/
+// 古墓卫士
+SW_317;pala;None;Discard:2;/
+// 棱彩珠宝工具
+SW_048;pala;None;Hold:1;/
+// 剑圣萨穆罗
+BAR_078;pala;hunter;Hold:1;/
+// 十字路口大嘴巴
+BAR_890;pala;None;Hold:2;/

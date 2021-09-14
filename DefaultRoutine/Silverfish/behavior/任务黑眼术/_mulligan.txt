@@ -1,0 +1,70 @@
+// 血肉巨人
+SCH_140;warlock;None;Discard:2;/
+// 无证药剂师
+CFM_900;warlock;None;Discard:2;/
+// 粗俗的矮劣魔
+LOOT_013;warlock;None;Discard:2;/
+// 护甲商贩
+YOP_032;warlock;None;Discard:2;/
+// 亡者复生
+SCH_514;warlock;None;Discard:2;/
+SCH_514;warlock;None;Hold:2;/ICC_851
+// 巡游向导
+SCH_312;warlock;None;Hold:1;/
+// 赛车回火
+// YOP_033;warlock;None;Discard:2;/
+YOP_033;warlock;None;Hold:1;/
+// 莫瑞甘的灵界
+BOT_568;warlock;None;Discard:2;/
+// 活化扫帚
+SCH_311;warlock;None;Discard:2;/
+// 死亡缠绕
+CORE_EX1_302;warlock;None;Discard:2;/
+// CORE_EX1_302;warlock;warrior;Hold:1;/
+// CORE_EX1_302;warlock;shaman;Hold:1;/
+// 火焰之雨
+DRG_206;warlock;None;Discard:2;/
+DRG_206;warlock;warrior;Hold:1;/
+DRG_206;warlock;priest;Hold:1;/
+// DRG_206;warlock;shaman;Hold:1;/
+// 纳斯雷兹姆
+SW_090;warlock;None;Discard:2;/
+SW_090;warlock;warrior;Hold:1;/
+SW_090;warlock;shaman;Hold:1;/
+// 拉法姆的诅咒
+LOE_007;warlock;None;Discard:2;/
+// 亵渎
+ICC_041;warlock;None;Discard:2;/
+ICC_041;warlock;priest;Hold:1;/
+ICC_041;warlock;shaman;Hold:1;/
+ICC_041;warlock;warrior;Hold:1;/
+// 火焰之灾祸
+ULD_717;warlock;None;Discard:2;/
+// 异教低阶牧师
+SCH_713;warlock;None;Discard:2;/
+// 狗头人
+LOOT_014;warlock;None;Hold:2;/
+// 烈焰小鬼
+EX1_319;warlock;None;Discard:2;/
+CORE_EX1_319;warlock;None;Discard:2;/
+// 力代
+EX1_316;warlock;None;Discard:2;/
+// 灵魂炸弹
+BOT_222;warlock;None;Discard:2;/
+BOT_222;warlock;warrior;Hold:1;/
+BOT_222;warlock;priest;Hold:1;/
+// 开心的食尸鬼
+ICC_700;warlock;None;Hold:1;/
+// 塔姆辛罗姆
+BAR_918;warlock;None;Discard:2;/
+// 凯雷塞斯王子
+ICC_851;warlock;None;Hold:2;/
+// 晶化师
+BOT_447;warlock;None;Discard:2;/
+// 熔核巨人
+EX1_620;warlock;None;Discard:2;/
+EX1_620;warlock;priest;Hold:1;/
+// 符文秘银杖
+SW_003;warlock;priest;Hold:1;/
+// 卑劣的脏鼠
+CFM_790;warlock;None;Discard:2;/

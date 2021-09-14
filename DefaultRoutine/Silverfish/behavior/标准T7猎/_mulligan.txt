@@ -1,0 +1,53 @@
+VAN_DS1_175;hunter;None;Discard:2;/
+VAN_CS2_188;hunter;None;Discard:2;/
+VAN_EX1_544;hunter;None;Discard:2;/
+VAN_CS2_237;hunter;None;Discard:2;/
+VAN_DS1_185;hunter;None;Discard:2;/
+VAN_EX1_533;hunter;None;Discard:2;/
+VAN_EX1_539;hunter;None;Discard:2;/
+VAN_EX1_089;hunter;None;Discard:2;/
+VAN_DS1_184;hunter;None;Discard:2;/
+VAN_CS2_084;hunter;None;Discard:2;/
+VAN_EX1_538;hunter;None;Discard:2;/
+VAN_CS2_124;hunter;None;Discard:2;/
+
+// 新生刺头
+SCH_231;hunter;None;Hold:2;/
+// 被禁锢的魔喉
+BT_211;hunter;None;Hold:1;/
+BT_211;hunter;None;Hold:2;SCH_231/SCH_600/SCH_133/GAME_005
+// 恶魔伙伴
+SCH_600;hunter;None;Hold:2;/
+// 鹿角小飞兔
+SCH_133;hunter;None;Hold:2;/
+// 科卡尔驯犬者
+BAR_035;hunter;None;Discard:2;/
+BAR_035;hunter;None;Hold:2;/GAME_005
+// 异教低阶牧师
+SCH_713;hunter;None;Discard:2;/
+SCH_713;hunter;Mage;Hold:1;/
+SCH_713;hunter;demonhunter;Hold:1;/
+// 萌物来袭
+SCH_617;hunter;None;Discard:2;/
+SCH_617;hunter;None;Hold:2;BAR_035/SCH_600/SCH_133/
+// 击伤猎物
+BAR_801;hunter;None;Discard:2;/
+BAR_801;hunter;hunter;Hold:2;/
+BAR_801;hunter;None;Hold:1;BAR_035/SCH_231/
+// 瑞林的步枪
+DMF_088;hunter;None;Hold:1;/SCH_231/SCH_600/SCH_133/
+// 追踪术
+DS1_184;hunter;None;Discard:2;/
+CORE_DS1_184;hunter;None;Discard:2;/
+// 奥术射击
+DS1_185;hunter;None;Discard:2;/
+CORE_DS1_185;hunter;None;Discard:2;/
+TU5_DS1_185;hunter;None;Discard:2;/
+// 快速射击
+CORE_BRM_013;hunter;None;Discard:2;/
+BRM_013;hunter;None;Discard:2;/
+// 瞄准射击
+SW_321;hunter;None;Discard:2;/
+// 曼科里克
+BAR_721;hunter;None;Discard:2;/
+BAR_721;hunter;None;Hold:1;/SCH_600/SCH_231

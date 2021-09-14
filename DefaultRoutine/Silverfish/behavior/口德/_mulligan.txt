@@ -1,0 +1,45 @@
+// 游园迷梦
+SW_428;druid;None;Hold:1;/
+// 保护甲板
+DRG_317;druid;None;Hold:2;/
+// 爪击
+CS2_005;druid;None;Hold:2;/
+// 铁齿铜牙
+ICC_079;druid;None;Hold:1;/
+// 橡树的召唤
+LOOT_309;druid;None;Hold:1;/
+// 飞扑
+TRL_243;druid;None;Hold:2;/
+CORE_TRL_243;druid;None;Hold:2;/
+// 月触项链
+DMF_730;druid;None;Hold:1;/
+// DMF_730;druid;None;Discard:2;/
+// DMF_730;druid;None;Hold:1;/LOOT_309
+// 小型法术玉石
+LOOT_051;druid;None;Hold:2;/
+// LOOT_051;druid;None;Discard:2;/
+// LOOT_051;druid;priest;Hold:2;/
+// LOOT_051;druid;warrior;Hold:2;/
+// LOOT_051;druid;shaman;Hold:2;/
+// 野性之怒
+OG_047;druid;None;Hold:1;/
+CORE_OG_047;druid;None;Hold:1;/
+// OG_047;druid;None;Discard:2;/
+// 激活
+EX1_169;druid;None;Discard:2;/
+CORE_EX1_169;druid;None;Discard:2;/
+EX1_169;druid;None;Hold:1;/LOOT_309
+CORE_EX1_169;druid;None;Hold:1;/LOOT_309
+// 真菌宝藏
+BT_128;druid;None;Hold:1;/
+// 撕咬
+EX1_570;druid;None;Discard:2;/
+// 野蛮之击
+EX1_578;druid;None;Discard:2;/
+// 横扫
+CS2_012;druid;None;Discard:2;/
+// 日蚀
+DMF_058;druid;None;Discard:2;/
+// 花园猎豹
+SW_431;druid;None;Discard:2;/
+
